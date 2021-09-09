@@ -1,4 +1,4 @@
-from setuptools import setup, find_packages, version
+from setuptools import setup, find_packages, version # noqa D100
 
 setup(
     name="fibonacci",
